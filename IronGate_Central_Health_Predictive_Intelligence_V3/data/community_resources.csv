@@ -1,0 +1,7 @@
+need,resource,action
+transport_barrier,Transportation navigation,Review transport options and confirm eligibility with coordinator.
+food_insecurity,Food support navigation,Offer referral review for food assistance.
+housing_insecurity,Housing support navigation,Review housing support referral options.
+medication_barrier,Medication access support,Refer to pharmacy assistance team for review.
+primary_care_gap,Primary care navigation,Offer scheduling assistance and confirm patient preferences.
+followup_gap,Post-discharge outreach,Review discharge plan and follow-up scheduling with care team.

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DEMO-01",
+    "title": "Transportation navigation",
+    "text": "Review transport options and confirm eligibility with coordinator. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  },
+  {
+    "id": "DEMO-02",
+    "title": "Food support navigation",
+    "text": "Offer referral review for food assistance. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  },
+  {
+    "id": "DEMO-03",
+    "title": "Housing support navigation",
+    "text": "Review housing support referral options. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  },
+  {
+    "id": "DEMO-04",
+    "title": "Medication access support",
+    "text": "Refer to pharmacy assistance team for review. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  },
+  {
+    "id": "DEMO-05",
+    "title": "Primary care navigation",
+    "text": "Offer scheduling assistance and confirm patient preferences. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  },
+  {
+    "id": "DEMO-06",
+    "title": "Post-discharge outreach",
+    "text": "Review discharge plan and follow-up scheduling with care team. Fictional workflow; verify consent, eligibility and availability before referral. Never discourage emergency care."
+  }
+]
